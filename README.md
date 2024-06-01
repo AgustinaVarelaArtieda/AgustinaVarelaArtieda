@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustina Varela</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Mongo, Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **agusvarela5@gmail.com**
 
